@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# Build output
+dist/
+build/
