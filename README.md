@@ -38,11 +38,6 @@ cd Project-project_computer_science-taskmanagerapp
    npm install
    ```
 
-2. Create a file named `.env` inside the backend folder with the following content:
-
-PORT=4000
-MONGO_URI=mongodb+srv://edrissajallow625:TaskManager123@cluster0.1ymyjov.mongodb.net/TaskManager?retryWrites=true&w=majority
-
 3. Start the backend server:
 
    ```bash
